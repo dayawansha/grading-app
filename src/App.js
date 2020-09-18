@@ -21,7 +21,7 @@ function App() {
             <div>
                 <ul>
                     <li>
-                        <Link to="/details">Detail results for a Student</Link>
+                        <Link to="/details">Detail results for a Student </Link>
                     </li>
                     <li>
                         <Link to="/review">Review answers for a Student</Link>
