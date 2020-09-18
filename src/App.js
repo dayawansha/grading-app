@@ -21,16 +21,16 @@ function App() {
             <div>
                 <ul>
                     <li>
-                        <Link to="/details">Detail results for a student</Link>
+                        <Link to="/details">Detail results for a Student</Link>
                     </li>
                     <li>
-                        <Link to="/review">Review answers</Link>
+                        <Link to="/review">Review answers for a Student</Link>
                     </li>
                     <li>
-                        <Link to="/statics">Statics on Questions</Link>
+                        <Link to="/statics">Statics on Questions for Teachers</Link>
                     </li>
                     <li>
-                        <Link to="/grade">Overall Grade Details</Link>
+                        <Link to="/grade">Overall Grade Details for Teachers</Link>
                     </li>
                 </ul>
 
